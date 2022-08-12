@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "discord.js": "^14.2.0"
+    "lavaplayer": "^0.0.1"
   }
 }
