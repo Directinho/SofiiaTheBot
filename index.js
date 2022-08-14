@@ -19,4 +19,3 @@ console.log(emojiCharacters['!']); // ❗
 client.login(process.env.token);
 
 client.login(token);
-
