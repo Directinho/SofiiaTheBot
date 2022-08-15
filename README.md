@@ -1,6 +1,6 @@
 <h1 align="center" b> SofiiaTheBot</h1>
 
-<p> 
+<p align="center" b> 
 One simple discord bot
 </p>
 <p> 
