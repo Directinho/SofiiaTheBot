@@ -3,8 +3,9 @@
 <p align="center" b> 
 One simple discord bot
 </p>
-<p> 
-Made by DirectDev
-</p>
-<p>With the help of @Huguinkkj
-</p>
+<b>
+<p align="Center">A simple discord bot with smart functions like chatting and various other things. Made for fun and for me to test some learning in python!</p>
+</b>
+<p align="Center"> 
+Made by DirectDev</p>
+<b align="center">With the help of @Huguinkkj</b>
